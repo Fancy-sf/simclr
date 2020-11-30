@@ -429,6 +429,7 @@ def main(argv):
           model=model,
           num_classes=num_classes)
 
+# test commit
 
 if __name__ == '__main__':
   tf.disable_v2_behavior()  # Disable eager mode when running with TF2.
